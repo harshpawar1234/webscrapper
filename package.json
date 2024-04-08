@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Aman Agnihotri",
+  "author": "Harsh Pawar",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
